@@ -1,5 +1,8 @@
 # Where TRAVERSE's 2026-09-05 design stands against DATUM
 
+DATUM is the gate discipline restated in `docs/discipline.md`; rule numbers
+below refer to that file.
+
 2026-09-06. Moved here from DATUM v1, where it sat inside the governing
 text; under DATUM rule 1 a per-repo report belongs in the repo it reports
 on. Verified against `2026-09-05-design.md`, not against any code (none
