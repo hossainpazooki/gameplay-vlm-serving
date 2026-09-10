@@ -34,3 +34,11 @@ vendored.
 - Runtime twins (tc throttle, cgroup io.max) are Linux-only and need the
   rented box, so they are not CI-reproducible; the siblings' twins all run
   in CI. Day 3's fresh-clone CPU reproduction covers fixture twins only.
+
+2026-09-09. The design was revised to v2 (`2026-09-05-design.md`, Changes
+section), which closes the rule 2 outcome-form gap, the rule 3 mechanics
+gap, the rule 4 checker-controls gap, the rule 5 STATUS-form gap, the rule
+6 field-name and basis gap, the rule 8 binding-file gap, and the rule 12
+statement gap, in the text. Rule 10 (floor provenance for g5.xlarge) and
+the runtime-twin item stay open. Every closure here is a claim about the
+design text, not about code; none exists.

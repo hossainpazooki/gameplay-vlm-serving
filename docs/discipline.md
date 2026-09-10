@@ -108,5 +108,7 @@ plan were written against v1. v2 changed the field names to `gate_sha`,
 `gate_worktree`, and `unevaluable_reason`, added the `schema` field, chose
 `surface` over `stage`, made STATUS.md a hand-written record plus a
 generated block rather than a fully generated file, and stated that a
-governing text is revised rather than amended in place. Bringing the design
-and the plan to v2 is the first open item in the handoff brief.
+governing text is revised rather than amended in place. The design was
+revised to v2 on 2026-09-09 (see its Changes section) and the plan with it;
+the 2026-09-07 handoff brief and the learnings entries that name the v1
+gap are records and stand as written.

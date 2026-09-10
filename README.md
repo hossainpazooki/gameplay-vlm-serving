@@ -27,7 +27,7 @@ discipline every document here refers to is restated in
 
 ## Where things are
 
-`docs/2026-09-05-design.md` the design and its dated amendments.
+`docs/2026-09-05-design.md` the design; revised in place with a change log.
 `docs/discipline.md` the twelve rules and the verdict row, self-contained.
 `docs/2026-09-06-datum-gaps.md` where the design stands against those rules.
 `docs/handoff/` dated briefs, newest first in `HANDOFF.md`.
